@@ -6,8 +6,8 @@ public class PemilihanBilangan22 {
         int angka = sc.nextInt();
         
         String hasil;
-        
-        if (angka % 2 == 0) {
+
+        if (angka % 2 == 0){
             hasil="Bilangan genap";
         }
         else{
